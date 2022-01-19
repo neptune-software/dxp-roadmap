@@ -1,2 +1,10 @@
-# dxp-roadmap
-Road Maps for our DXP products and components
+# DXP Roadmap
+
+This project is used to communicate Neptune's product roadmaps for employees and customers.
+
+## DXP Cloud
+
+Currently, we share our [DXP Cloud](https://www.neptune-software.com/neptune-dxp/cloud/) roadmap here. Others might follow.
+
+* [DXP Cloud Landing Page](https://www.neptune-software.com/neptune-dxp/cloud/)
+* [DXP Cloud Docs](https://docs.neptune-software.com/neptune-dxp-cloud/all/index.html)
